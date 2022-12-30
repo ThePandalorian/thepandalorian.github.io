@@ -1,25 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: BS-MS student, <a href="https://www.iiserpune.ac.in/">IISER Pune</a>, India
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<!---
+<blockquote>
+Mathematics without natural history is sterile, but natural history without mathematics is muddled.
+<cite style="text-align: right"> - John Maynard Smith </cite>
+</blockquote>
+--->
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<h1> <span  style="font-size:70%;text-align: justify;width:10%"> <br> &#8220; <i> Mathematics without natural history is sterile, but natural history without mathematics is muddled. &#8221; </i> </span> <br> <cite style="text-align:right-align;font-size: 65%"> <br> - John Maynard Smith </cite> </h1>
+<br>
+<h2> <b> Hi there! </b> </h2>
+<div style="text-align: justify">
+I'm Shikhara, an undergraduate at the Indian Institute of Science Education and Research (IISER) Pune, India. I am broadly interested in studying systems which have a strong interplay between ecological and evolutionary processes, and in uncovering broad generalities in such systems. I believe that the best way to approach this is to use the powerful insights provided by rigorous mathematical theory and modelling while relying on empirical data to shape, guide, and verify these mathematical constructs. This approach not only requires integrative approaches, but also requires extensive communication and collaboration between theorists and empiricists. I am interested in approaching this interface from the theory side, using models that are informed by empirical data.<br>
+<br>
+I have recently been particularly interested in the mechanisms of coexistence of phenotypic polymorphisms in nature. For my Master's dissertation, I am working with <a href = 'https://sites.google.com/view/rohinibalakrishnanlab/home'>Prof. Rohini Balakrishnan</a> and <a href='https://teelabiisc.wordpress.com/'>Dr. Vishwesha Guttal</a> at the Indian Institute of Science, where I am using methods from statistical physics and stochastic processes to study the effects of demographic stochasticity on the number of polymorphisms that can be created and maintained in a population. In the past, I have worked on vocal behaviour in frogs, alternative reproductive tactics in tree crickets, and Lotka-Volterra communities. An extensive list of my work can be found over at the <a href='https://thepandalorian.github.io/projects/'>Projects</a> page. Some of these projects occasionally lead to publications in journals. Such publications (and preprints) can be found on the <a href='https://thepandalorian.github.io/publications/'>Publications</a> page.<br>
+<br>
+In my free time, I enjoy reading, listening to country music, or sipping a hot cup of strong coffee. I'm particularly fond of popular science books, and you can find a list of books I liked over on the <a href='https://thepandalorian.github.io/resources/'>Resources</a> page. I also like collecting quotes (usually about modelling or ecology/evolution), and you can find some quotes I particularly liked over on the <a href='https://thepandalorian.github.io/Quotes/'>Quotes</a> page. I am also an avid naturalist and wildlife lover, and love going on treks and hikes. When I find the time, I like dabbling in wildlife photography (mostly macro stuff), and you can find images I've taken over on my <a href = "https://www.instagram.com/shikhara_bhat/?hl=en">instagram</a> account.
+</div>
