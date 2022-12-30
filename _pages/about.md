@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: BS-MS student, <a href="https://www.iiserpune.ac.in/">IISER Pune</a>, India
+description:
 
 profile:
   align: right
