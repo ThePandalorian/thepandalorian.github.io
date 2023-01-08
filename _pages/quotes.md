@@ -7,7 +7,7 @@ horizontal: false
 ---
 
 
-# Pretty quotes (about models and ecology)
+# Pretty quotes
 <br>
 <br>
 
@@ -161,7 +161,7 @@ is the unreasonable ineffectiveness of mathematics in biology”</div>
 <br>
 
 ---
-<div style="text-align: center">“The heart and soul of much mathematics consists of the fact that the ‘same’ object can be presented to us in different ways. [...] This  issue  has  been  with  us,  of  course,  forever:  the general question of <i>abstraction</i>, as separating what we want from what we are presented with. It is neatly packaged in the Greek verb <i>aphairein</i>, as interpreted by Aristotle in the later books of the <i>Metaphysics</i> to mean simply separation: if it is <i>whiteness</i> we  want  to  think  about,  we  must  somehow separate it from <i>white horse, white house, white hose</i> and all the other white things that it invariably <i>must</i> come along with, in order for us to experience it at all”</div>
+<div style="text-align: center">“The heart and soul of much mathematics consists of the fact that the ‘same’ object can be presented to us in different ways. [...] This  issue  has  been  with  us,  of  course,  forever:  the general question of <i>abstraction</i>, as separating what we want from what we are presented with.[...] if it is <i>whiteness</i> we  want  to  think  about,  we  must  somehow separate it from <i>white horse, white house, white hose</i> and all the other white things that it invariably <i>must</i> come along with, in order for us to experience it at all”</div>
 <br>
 <div style="text-align: right"> - <a href='https://people.math.harvard.edu/~mazur/preprints/when_is_one.pdf'>Barry Mazur</a></div>
 <br>
@@ -314,6 +314,16 @@ based on the useful lines of inquiry carved out by researchers, to one based on 
 <div style="text-align: center">“Community ecology is often perceived as a mess, given the seemingly vast number of processes that can underlie the many patterns of interest, and the apparent uniqueness of each study system. However, at the most general level, patterns in the composition and diversity of species–the subject matter of community ecology–are influenced by only four classes of process: selection, drift, speciation, and dispersal.”</div>
 <br>
 <div style="text-align: right"> – <a href='https://www.journals.uchicago.edu/doi/10.1086/652373'>Mark Vellend</a></div>
+<br>
+<br>
+
+## Miscellaneous
+<br>
+<br>
+
+<div style="text-align: center">“The ideal scientist thinks like a poet and works like a bookkeeper, and I suppose that if gifted with a full quiver, he also writes like a journalist.”</div>
+<br>
+<div style="text-align: right"> – <a href='https://en.wikipedia.org/wiki/Consilience_(book)'>Edward O. Wilson</a></div>
 <br>
 <br>
 

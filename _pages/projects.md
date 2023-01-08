@@ -23,7 +23,7 @@ Supervisors: Dr. Vishwesha Guttal, Prof. Rohini Balakrishnan</i>
     </div>
 </div>
 <div class="caption" style="text-align: center">
-Two different realizations of stochastic individual-based model of resource competition in one dimension where individuals compete according to a continuous version of the logistic equation, written in Python. The model on top has a population of around 1000 individuals, and remains monomorphic. The model on the bottom has a population of around 10000 individuals, and exhibits evolutionary branching, where an initially monomorphic population evolves to become dimorphic. All other model parameters are identical across both simulations.
+Two different realizations of a stochastic individual-based model of resource competition in one dimension where individuals compete according to a continuous version of the logistic equation. The model on top has a population of around 1000 individuals, and remains monomorphic. The model on the bottom has a population of around 10000 individuals, and exhibits evolutionary branching, where an initially monomorphic population evolves to become dimorphic. All other model parameters are identical across both simulations.
 </div>
 
 <div style="text-align: justify">
