@@ -201,6 +201,15 @@ based on the useful lines of inquiry carved out by researchers, to one based on 
 <br>
 <br>
 
+
+---
+<div style="text-align: center">“The grand aim of all science [is] to cover the greatest number of empirical facts by logical deduction
+from the smallest number of hypotheses or axioms.”</div>
+<br>
+<div style="text-align: right"> - <a href='https://www.goodreads.com/book/show/98593.The_Universe_and_Dr_Einstein'>Albert Einstein</a> (according to Lincoln Barnett)</div>
+<br>
+<br>
+
 ---
 
 <div style="text-align: center">“Wir müssen wissen – wir werden wissen” ("We must know – we will know")</div>
