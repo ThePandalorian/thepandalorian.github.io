@@ -326,6 +326,15 @@ from the smallest number of hypotheses or axioms.”</div>
 <br>
 <br>
 
+---
+<div style="text-align: center">“very few high-level features of the world have necessary and sufficient properties. In everyday life and in ecology, concepts are
+fuzzy, being held together by an open-ended set of correlated properties”</div>
+<br>
+<div style="text-align: right"> – <a href='https://arxiv.org/abs/2201.06687'>Evan C. Johnson, Oscar Godoy, and Alan Hastings</a></div>
+<br>
+<br>
+
+
 ## Miscellaneous
 <br>
 <br>
