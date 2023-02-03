@@ -101,6 +101,13 @@ As you could perhaps guess from the epigraph on my homepage, I like quotes. Here
 <br>
 
 ---
+<div style="text-align: center">“Not only is algebraic reasoning exact; it imposes an exactness on the verbal postulates made before algebra can start which is usually lacking in the first verbal formulations of scientific principles”</div>
+<br>
+<div style="text-align: right"> - <a href='https://pubmed.ncbi.nlm.nih.gov/14161266/'>J.B.S. Haldane</a></div>
+<br>
+<br>
+
+---
 <div style="text-align: center">“At any time, there is only a thin layer separating what is trivial from what is impossibly difficult. It is in that layer that discoveries are made”</div>
 <br>
 <div style="text-align: right"> - <a href='https://twitter.com/theosysbio/status/1590948256871116800?s=20&t=P863HkXAVlFwIUGmd73LoA'>Andrei Kolmogorov</a> <br> (The <a href='https://www.worldcat.org/title/750495480'>original source</a> is present only in Russian, from his personal diary. I think it is the entry dated September 14 1943. I've also seen it translated slightly differently <a href='https://www.cambridge.org/core/books/abs/voyage-through-turbulence/russian-school/2DAFFAF2A51156F3B82C54335883DA1D'>here</a>, page 212)</div>
