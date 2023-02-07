@@ -258,6 +258,13 @@ from the smallest number of hypotheses or axioms.”</div>
 <br>
 <br>
 
+---
+<div style="text-align: center">“Why all this silly rigamarole of sex? Why this gavotte of chromosomes? Why all these useless males, this striving and wasteful bloodshed, these grotesque horns, colours ... and why, in the end, novels ... about love?”</div>
+<br>
+<div style="text-align: right"> - <a href='https://global.oup.com/academic/product/narrow-roads-of-gene-land-9780198503361?q=Narrow%20Roads%20of%20Gene%20Land&lang=en&cc=in'>W.D. Hamilton</a></div>
+<br>
+<br>
+
 
 ---
 <div style="text-align: center">“The theory of evolution by natural selection is an ecological theory—founded on ecological observation by perhaps the greatest of all ecologists. It has been adopted by and brought up by the science of genetics, and ecologists, being modest people, are apt to forget their distinguished parenthood.”</div>
