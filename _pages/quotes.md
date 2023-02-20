@@ -4,6 +4,7 @@ title: Quotes
 permalink: /Quotes/
 nav: true
 horizontal: false
+nav_order: 5
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 layout: about
+nav_order: 1
 title: About
 permalink: /
 description:

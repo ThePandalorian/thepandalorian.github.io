@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Projects
+nav_order: 2
 permalink: /projects/
 description: Various academic projects I've been involved in over the years
 nav: true
-nav_order: 2
 display_categories: [Current, Previous]
 horizontal: false
 ---

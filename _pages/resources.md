@@ -4,6 +4,7 @@ title: Resources
 permalink: /resources/
 nav: true
 horizontal: false
+nav_order: 4
 ---
 
 ## Great popular science and popular science-adjacent books
