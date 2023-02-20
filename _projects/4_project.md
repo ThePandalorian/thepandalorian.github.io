@@ -16,7 +16,8 @@ Supervisors: Dr. Anand Krishnan, Dr. Seshadri K.S.</i>
 Do frogs use different types of vocal sequences in different contexts? If so, how may sequence structure vary with social context? I spent the monsoon of 2019 recording vocalizations of <i>Nyctibatrachus humayuni</i>, a frog with a simple two-note repertoire, and the monsoon of 2020 recording the vocalizations of <i>Pseudophilautus amboli</i>, a frog with a complex six-note repertoire, to try to answer these questions. This work was conducted as two summer projects in
  <a href = "https://sites.google.com/view/eceb-lab/home">Dr. Anand Krishnan's lab</a> at IISER Pune and in collaboration with <a href = "http://seshadriks.weebly.com/">Dr. Seshadri K.S.</a>, a postdoc in <a href = "https://mariathaker.weebly.com/">Dr. Maria Thaker’s lab</a> at IISc. We uncovered evidence that anurans change vocal sequence structure based on behavioral context, and do so in diverse ways.
 <br>
-<div class="row">
+<br>
+<div class="row" style="text-align: center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/pseudophilautus.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>

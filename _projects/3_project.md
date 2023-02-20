@@ -15,7 +15,8 @@ Supervisor: Prof. Sutirth Dey </i>
 
 Which processes govern the stability of ecological communities in nature? Can the particular types of interactions present in a community affect its stability? If a community experiences species loss, does the probability of a species going extinct depend on how many mutualistic interactions it was involved in? How does all this affect how much mutualism we should expect to see in nature anyway?<br>
 <br>
-<div class="row">
+<br>
+<div class="row" style="text-align: center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/bacteria.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
