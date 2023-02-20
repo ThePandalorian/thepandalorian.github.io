@@ -2,7 +2,7 @@
 layout: page
 title: Mutualism & Stability in Lotka-Volterra communities
 description: Studying how mutualism persists in model ecological communities
-img: assets/img/LV_obs_vs_exp.png
+img: assets/img/LV_comms.png
 importance: 1
 category: Previous
 permalink: /projects/LV_comms
