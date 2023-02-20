@@ -5,6 +5,7 @@ description: Investigating the mating success of different signalling strategies
 img: assets/img/cricket_IbM.gif
 importance: 2
 category: Current
+permalink: /projects/oecanthus_ARTs
 ---
 
 <i> Jan 2021 - Present <br>

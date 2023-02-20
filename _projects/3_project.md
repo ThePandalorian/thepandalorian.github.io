@@ -5,6 +5,7 @@ description: Studying how mutualism persists in model ecological communities
 img: assets/img/LV_obs_vs_exp.png
 importance: 1
 category: Previous
+permalink: /projects/LV_comms
 ---
 
 <i> May 2021 - July 2022 <br>

@@ -5,6 +5,7 @@ description: Studying how frogs vary their vocal sequence structure based on beh
 img: assets/img/pseudo_cover.png
 importance: 2
 category: Previous
+permalink: /projects/frog_acoustics
 ---
 
 <i> June 2019 - Aug 2020 <br>

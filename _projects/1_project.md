@@ -5,6 +5,7 @@ description: Modelling stochastic evolutionary dynamics from first principles (M
 img: assets/img/evolutionary_branching.png
 importance: 1
 category: Current
+permalink: /projects/MS_thesis
 ---
 
 <i> June 2022 - Present <br>
