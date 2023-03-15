@@ -19,7 +19,7 @@ As you could perhaps guess from the epigraph on my homepage, I like quotes. Here
 <br>
 <br>
 
-## On Modelling
+## On Theory/Modelling
 <br>
 <br>
 
@@ -34,6 +34,13 @@ As you could perhaps guess from the epigraph on my homepage, I like quotes. Here
 <div style="text-align: center">“Our future advances will not be concerned with universal laws, but instead with universal approaches to tackling particular problems.”</div>
 <br>
 <div style="text-align: right"> – <a href = 'https://www.nceas.ucsb.edu/ecoessays/brown/kareiva'>Peter Kareiva</a></div>
+<br>
+<br>
+
+---
+<div style="text-align: center">“Writing in the last months of this millenium, it is clear that the prime intellectual task of the future lies in constructing an appropriate theoretical framework for biology”</div>
+<br>
+<div style="text-align: right"> - <a href='https://royalsocietypublishing.org/doi/10.1098/rstb.1999.0535'>Sydney Brenner</a></div>
 <br>
 <br>
 
@@ -160,7 +167,6 @@ is the unreasonable ineffectiveness of mathematics in biology”</div>
 <br>
 <br>
 
-
 ---
 <div style="text-align: center">“Well, the stripes are easy but what about the horse part?”</div>
 <br>
@@ -252,6 +258,7 @@ from the smallest number of hypotheses or axioms.”</div>
 <br>
 <br>
 
+
 ---
 <div style="text-align: center">“The dry-balls cannot possibly learn a thing every starfish knows in the core of his soul and in the vesicle between his rays. He must, so know the starfish and the student biologist who sits at the feet of living things, proliferate in all directions.”</div>
 <br>
@@ -279,6 +286,13 @@ from the smallest number of hypotheses or axioms.”</div>
 <div style="text-align: center">“The mathematical theory of evolution is in a somewhat unfortunate position, too mathematical to interest most biologists and not sufficiently mathematical to interest most mathematicians”</div>
 <br>
 <div style="text-align: right"> - <a href='https://books.google.co.in/books?id=wP0GBwAAQBAJ&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false'>J.B.S. Haldane</a></div>
+<br>
+<br>
+
+---
+<div style="text-align: center">“Nothing in evolution makes sense except in the light of population genetics”</div>
+<br>
+<div style="text-align: right"> - <a href='https://www.worldcat.org/title/origins-of-genome-architecture/oclc/77574049'>Michael Lynch</a></div>
 <br>
 <br>
 
