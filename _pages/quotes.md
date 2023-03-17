@@ -182,7 +182,7 @@ is the unreasonable ineffectiveness of mathematics in biology”</div>
 <br>
 
 
-## On Generality and Knowledge
+## On Laws, Generality, and Knowledge
 <br>
 <br>
 
@@ -237,6 +237,22 @@ from the smallest number of hypotheses or axioms.”</div>
 <div style="text-align: center">“ignoramus et ignorabimus” ("we do not know and will not know”)</div>
 <br>
 <div style="text-align: right"> - <a href = 'https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus'>Emil du Bois-Reymond</a>, Biologist</div>
+<br>
+<br>
+
+---
+
+<div style="text-align: center">“we don't need no stinkin’ laws”</div>
+<br>
+<div style="text-align: right"> - <a href = 'https://onlinelibrary.wiley.com/doi/full/10.1111/j.0030-1299.2005.13959.x'>Robert O'Hara, speaking about ecology</div>
+<br>
+<br>
+
+---
+<div style="text-align: center">“Very few high-level features of the world have necessary and sufficient properties. In everyday life and in ecology, concepts are
+fuzzy, being held together by an open-ended set of correlated properties”</div>
+<br>
+<div style="text-align: right"> – <a href='https://arxiv.org/abs/2201.06687'>Evan C. Johnson, Oscar Godoy, and Alan Hastings</a> (Appendix B.4)</div>
 <br>
 <br>
 
@@ -356,10 +372,9 @@ from the smallest number of hypotheses or axioms.”</div>
 <br>
 
 ---
-<div style="text-align: center">“Very few high-level features of the world have necessary and sufficient properties. In everyday life and in ecology, concepts are
-fuzzy, being held together by an open-ended set of correlated properties”</div>
+<div style="text-align: center">“The pursuit of [broad generalizations in ecology] is desirable, because they will bring a cohesion to ecology. However, calling them laws is to give them an epistemological status that they do not deserve. Quite simply, the “Laws” are not strict enough to judge if a species has broken a law; in its defence the species can simply suggest that the law should be re-interpreted.”</div>
 <br>
-<div style="text-align: right"> – <a href='https://arxiv.org/abs/2201.06687'>Evan C. Johnson, Oscar Godoy, and Alan Hastings</a> (Appendix B.4)</div>
+<div style="text-align: right"> – <a href = 'https://onlinelibrary.wiley.com/doi/full/10.1111/j.0030-1299.2005.13959.x'>Robert O'Hara</div>
 <br>
 <br>
 
@@ -371,6 +386,12 @@ fuzzy, being held together by an open-ended set of correlated properties”</div
 <div style="text-align: center">“The ideal scientist thinks like a poet and works like a bookkeeper, and I suppose that if gifted with a full quiver, he also writes like a journalist.”</div>
 <br>
 <div style="text-align: right"> – <a href='https://en.wikipedia.org/wiki/Consilience_(book)'>Edward O. Wilson</a></div>
+<br>
+<br>
+
+<div style="text-align: center">“Science walks forward on two feet, namely theory and experiment [...] Sometimes it is one foot which is put forward first, sometimes the other, but continuous progress is only made by the use of both - by theorizing and then testing, or by finding new relations in the process of experimenting and then bringing the theoretical foot up and pushing it on beyond, and so on in unending alterations.”</div>
+<br>
+<div style="text-align: right"> – <a href='https://www.nobelprize.org/uploads/2018/06/millikan-lecture.pdf'>Robert Millikan</a></div>
 <br>
 <br>
 
