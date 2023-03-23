@@ -374,7 +374,7 @@ fuzzy, being held together by an open-ended set of correlated properties”</div
 ---
 <div style="text-align: center">“The pursuit of [broad generalizations in ecology] is desirable, because they will bring a cohesion to ecology. However, calling them laws is to give them an epistemological status that they do not deserve. Quite simply, the “Laws” are not strict enough to judge if a species has broken a law; in its defence the species can simply suggest that the law should be re-interpreted.”</div>
 <br>
-<div style="text-align: right"> – <a href = 'https://onlinelibrary.wiley.com/doi/full/10.1111/j.0030-1299.2005.13959.x'>Robert O'Hara</div>
+<div style="text-align: right"> – <a href = 'https://onlinelibrary.wiley.com/doi/full/10.1111/j.0030-1299.2005.13959.x'>Robert O'Hara</a></div>
 <br>
 <br>
 
