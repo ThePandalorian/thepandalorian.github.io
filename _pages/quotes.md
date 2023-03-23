@@ -244,7 +244,7 @@ from the smallest number of hypotheses or axioms.”</div>
 
 <div style="text-align: center">“we don't need no stinkin’ laws”</div>
 <br>
-<div style="text-align: right"> - <a href = 'https://onlinelibrary.wiley.com/doi/full/10.1111/j.0030-1299.2005.13959.x'>Robert O'Hara, speaking about ecology</div>
+<div style="text-align: right"> - <a href = 'https://onlinelibrary.wiley.com/doi/full/10.1111/j.0030-1299.2005.13959.x'>Robert O'Hara</a>, speaking about ecology</div>
 <br>
 <br>
 
