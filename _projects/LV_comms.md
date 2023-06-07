@@ -25,6 +25,6 @@ Which processes govern the stability of ecological communities in nature? Can th
 Differential survival of members of a Lotka-Volterra community following a perturbation from equilibrium. The community on the right has a much higher proportion of mutualistic interactions than the one on the left, showing that an increase in the proportion of mutualistic interactions destabilizes communities.
 </div>
 <br>
-In 2021-22, I worked with <a href = 'https://scholar.google.co.in/citations?user=Xx2YilYAAAAJ&hl=en'>Suryadeepto Nag</a>, my batchmate at IISER Pune, in <a href = "https://sites.google.com/a/acads.iiserpune.ac.in/sdlab/pbl-iiser-p">Dr. Sutirth Dey's lab</a>, where I used mathematical and computational tools to try and understand how the distribution of interaction types (mutualism, competition, and exploitation) affect the dynamics of Lotka-Volterra communities. This is currently being written up as a manuscript (Bhat <i>et al.</i> in prep).
+In 2021-22, I worked with <a href = 'https://scholar.google.co.in/citations?user=Xx2YilYAAAAJ&hl=en'>Suryadeepto Nag</a>, my batchmate at IISER Pune, in <a href = "https://sites.google.com/a/acads.iiserpune.ac.in/sdlab/pbl-iiser-p">Dr. Sutirth Dey's lab</a>, where I used mathematical and computational tools to try and understand how the distribution of interaction types (mutualism, competition, and exploitation) affect the dynamics of Lotka-Volterra communities.
 
 </div>

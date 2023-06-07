@@ -14,7 +14,7 @@ Supervisors: Prof. Rohini Balakrishnan, Dr. Vishwesha Guttal</i>
 <div style="text-align: justify">
 
 Trait polymorphisms are widespread in nature, and explaining their stable co-existence is an important problem in ecology and evolution. Alternative reproductive tactics (ARTs), in which individuals of one or more sex exhibit discrete, discontinuous traits in response to reproductive competition, represent a special case of trait polymorphism in which the traits are often complex, behavioral, and dynamic. Thus, studying how alternative reproductive tactics are maintained may provide general insights into how complex trait polymorphisms are maintained in populations. Males of the tree cricket <i>Oecanthus henryi</i> use one of three distinct ARTs to obtain mates:
-
+<br>
 <ul>
 
     <li> <i>Bafflers</i> construct an acoustic structure called a `baffle' using leaves and call from within this baffle. The baffle increases the amplitude of their calls, and females are known to prefer louder males. </li>
