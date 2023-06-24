@@ -181,6 +181,13 @@ is the unreasonable ineffectiveness of mathematics in biology”</div>
 <br>
 <br>
 
+---
+<div style="text-align: center">“We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more important things.”</div>
+<br>
+<div style="text-align: right"> - Preface to the fifth edition of <a href='https://www.worldcat.org/title/868906949'>Stochastic differential equations : an introduction with applications
+by Øksendal</a>. The author says the quote was 'Posted outside the mathematics reading room in Tromsø University' </div>
+<br>
+<br>
 
 ## On Laws, Generality, and Knowledge
 <br>
