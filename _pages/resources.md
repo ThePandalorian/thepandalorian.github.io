@@ -19,6 +19,7 @@ I'm a huge fan of 'popular science' books. These books, when written well, provi
 - <i>A taste for the beautiful</i>  by Michael Ryan - Mate Choice
 - <i>Modeling Nature</i>  by Sharon Kingsland - history of modern ecology
 - <i>An Immense World</i> by Ed Yong - Sensory ecology
+- <i>Braiding Sweetgrass</i> by Robin Wall Kimmerer - Natural history, traditional knowledge. Debatable whether this should be considered science at all, but I do think its something every field ecologist should read, especially those who engage with local communities as part of their work. It helps that the writing is incredibly beautiful.
 
 ### Philosophy of science/biology/ecology/evolution
 - <i>This is Biology</i>  by Ernst Mayr - Overarching view of biology. Rather dated, but somewhat of a classic.
@@ -37,19 +38,21 @@ I'm a huge fan of 'popular science' books. These books, when written well, provi
 - <i>The Life of the Cosmos</i>  by Lee Smolin - Proposes the 'cosmological natural selection' hypothesis, which states that the values of the fundamental constants that we see today is the product of a natural selection-like process occurring on universes.
 - <i> The Oxford Book of Modern Science Writing </i>, edited by Richard Dawkins - Collection of essays that are meant to showcase good popular science writing.
 - <i> The Idea of the Brain </i> by Matthew Cobb - Fantastic book discussing the history of ideas and metaphors used to describe the brain (and sometimes neurons more generally). Very interesting book, makes you think about how bound humans are to the technology around them when it comes to thinking of metaphors (Ex: Today we think of the brain as a 'computer', but people used to draw analogies with telegraphs and hydraulics).
-- <i>Fermat's last theorem</i> by Simon Singh (Speaks about various mathematicians who worked on Fermat's last theorem and/or developed tools that contributed to Andrew Wiles' proof of the theorem)
+- <i>Fermat's last theorem</i> by Simon Singh - Speaks about various mathematicians who worked on Fermat's last theorem and/or developed tools that contributed to Andrew Wiles' proof of the theorem.
 - <i>It must be beautiful</i> by various authors, edited by Graham Fermelo. Collection of essays about the use of mathematics in the science from a list of authors that includes Roger Penrose, John Maynard Smith, and Robert May.
+- <i>Escape from Model Land</i> by Erica Thompson - Mathematical modelling and its relation to real-world processes, mostly from an applied perspective (think finance, climate change, etc.).
 
 ### Biographies and Autobiographies of scientists
 I often like reading about scientists just as much as I like reading about science. Here is a list of biographies and autobiographies that I particularly enjoyed.
 
 - <i>Naturalist</i>  by E.O. Wilson
-- <i>Surely you're joking, Mr. Feynman</i>  by Richard Feynman
-- <i>A Mind at Play</i>  by Jimmy Soni (Biography of Claude Shannon)
-- <i>The Code Breaker</i>  by Walter Isaacson (Biography of Jennifer Doudna)
-- <i>Genius</i>  by James Gleick (Biography of Richard Feynman)
-- <i>A feeling for the Organism</i>  by Evelyn Fox Keller (Very inspiring biography of Barbara McClintock)
-- <i>The Price of Altruism</i>  by Oren Harman (Biography of George Price)
+- <i>A Mind at Play</i>  by Jimmy Soni (biography of Claude Shannon)
+- <i>The Code Breaker</i>  by Walter Isaacson (biography of Jennifer Doudna)
+- <i>Surely you're joking, Mr. Feynman</i> and <i>What do you care what other people think?</i> by Richard Feynman (sort of an autobiography, but mostly a collection of anecdotes)
+- <i>Genius</i>  by James Gleick (biography of Richard Feynman - provides good contrast with the very biased picture Feynman paints of himself in his autobiography)
+- <i>A feeling for the Organism</i>  by Evelyn Fox Keller (very inspiring biography of Barbara McClintock)
+- <i>The Price of Altruism</i> by Oren Harman (biography of George Price)
+- <i>Nature's Oracle</i> by Ullica Segerstrale (biography of Bill Hamilton)
 
 ---
 
@@ -99,7 +102,7 @@ I firmly believe that integrative approaches which combine theory with empirical
 ---
 ## Miscellaneous
 
-- [Lecture notes](https://drive.google.com/drive/folders/16anbO3nyiUXoo3fk4bdlXdrIA2KVw7Sm?usp=share_link) that I took during my education at IISER Pune. Currently has notes on NLD (from Strogatz), genetics (chromosome mapping, transposons, genetic screens, forward & backward genetics, CRISPR), neurobiology (mostly cellular stuff. Hodgkin-Huxley and its precursor models), statistical inference (sufficient statistics, hypothesis testing, confidence intervals, etc. from a math view. No prerequisites), statistical mechanics (Covers all of Reif's intro textbook, culminating in statistically deriving the laws of thermodynamics. No prerequisites), measure theory (The whole thing: intro to measures, lebesgue integration, product measure and Fubini's theorem, L^p spaces, Radon-Nikodym theorem, differentiation of measures; No prerequisites. Important results are presented in a separate document in case you don't care for proofs), probability (Markov chains, intro to measure theoretic probability, martingale theory; Knowing measure theory is helpful for the second half, but all necessary results are introduced), stochastic processes (Markov chains 'properly', Brownian motion, stochastic calculus; This needs some measure theory and probability, important results are presented in the first few pages) and PDEs (transport eqn, method of characteristics, Poisson eqn and associated results for harmonic function, heat eqn, wave eqn, intro to Fourier transforms and their properties; Some proofs here and there need some results from measure theory).
+- [Lecture notes](https://drive.google.com/drive/folders/16anbO3nyiUXoo3fk4bdlXdrIA2KVw7Sm?usp=share_link) that I took during my education at IISER Pune. Currently has notes on NLD (from Strogatz), genetics (chromosome mapping, transposons, genetic screens, forward & backward genetics techniques, sequencing techniques, CRISPR-Cas), neurobiology (mostly cellular stuff; Hodgkin-Huxley and its precursor models), statistical inference (sufficient statistics, hypothesis testing, confidence intervals, etc. from a math view. No prerequisites), graph theory (basic definitions, Eulerian and Hamiltonian graphs/paths/cycles, matching and perfect matching, vertex and edge cuts, max flow-min cut, intro to graph coloring, intro to Ramsey theory and extremal graph theory) , statistical mechanics (Covers all of Reif's intro textbook, culminating in statistically deriving the laws of thermodynamics. No prerequisites), measure theory (abstract measure spaces, lebesgue integration, product measures and Fubini's theorem, $L^p$ spaces, Radon-Nikodym theorem, differentiation of measures; No prerequisites. Important results are presented in a separate document in case you don't care for proofs), probability (Markov chains, intro to measure theoretic probability, martingale theory; Knowing measure theory is helpful for the second half, but all necessary results are introduced), stochastic processes (Markov chains 'properly', Brownian motion, stochastic calculus, SDEs; This needs some measure theory and probability, important results are presented in the first few pages) and PDEs (transport eqn, method of characteristics, Poisson eqn and associated results for harmonic functions, heat eqn, wave eqn, intro to Fourier transforms, their properties, and how to use them to solve PDEs; Notions such as $L^p$ norms are used regularly, so familiarity with basic measure-theoretic notions will be useful. Some proofs here and there need actual results from measure theory).
 - [Applied Analysis](https://www.math.ucdavis.edu/~hunter/book/pdfbook.html), a textbook by John Hunter and Bruno Nachtergaele that covers various topics from Analysis that are relevant for (mathematically oriented) modellers (Ex: Function spaces, Linear operators, Fourier transform, Measure spaces, calculus of variations)
 - [Dynamic Ecology](https://dynamicecology.wordpress.com/), a blog by Jeremy Fox. Discusses various aspects of ecology, evolution, modeling, etc.
 - [Major Revisions](https://www.majorrevisionspodcast.com/), an ecology podcast by working ecologists
