@@ -189,6 +189,14 @@ by Øksendal</a>. The author says the quote was 'Posted outside the mathematics 
 <br>
 <br>
 
+---
+<div style="text-align: center">“Biology turns out [...] to be a  good  deal  more  theoretical  than  physics. However contrary  this may be to the party line, we really should not be so surprised. Biology, after all, is a good deal harder than physics. If scientific research is stumbling around in a dark cellar looking for a black cat, then biology is doing so without knowing there is a cat there until one accidentally falls over it. Theory can sometimes conjure up the cat before the accident.”</div>
+<br>
+<div style="text-align: right"> - <a href='https://www.molbiolcell.org/doi/10.1091/mbc.e12-03-0227'>Jeremy Gunawardena</a></div>
+<br>
+<br>
+
+
 ## On Laws, Generality, and Knowledge
 <br>
 <br>
