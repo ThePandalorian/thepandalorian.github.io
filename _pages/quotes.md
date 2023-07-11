@@ -59,6 +59,13 @@ As you could perhaps guess from the epigraph on my homepage, I like quotes. Here
 <br>
 
 ---
+<div style="text-align: center">“A theory, or, more concretely, a model, of a mechanism is not a description of reality; it is a description of our assumptions about reality”</div>
+<br>
+<div style="text-align: right"> - <a href='https://www.molbiolcell.org/doi/10.1091/mbc.e12-03-0227'>Jeremy Gunawardena</a></div>
+<br>
+<br>
+
+---
 <div style="text-align: center">“We only need models because our brains suffer from too many limitations and are not able to consider all sides of a complicated argument in a balanced way”</div>
 <br>
 <div style="text-align: right"> - <a href = 'https://www.cambridge.org/core/books/modelling-for-field-biologists-and-other-interesting-people/98929D784764A2B409411AC073878819'>Hanna Kokko</a></div>
@@ -76,6 +83,13 @@ As you could perhaps guess from the epigraph on my homepage, I like quotes. Here
 <div style="text-align: center">“A good theoretical model of a complex system should be like a good caricature: it should emphasize those features which are most important and should downplay the inessential details. Now the only snag with this advice is that one does not really know which are the inessential details until one has understood the phenomena under study. Consequently, one should investigate a wide range of models and not stake one’s life (or one’s theoretical insight) on one particular model only”</div>
 <br>
 <div style="text-align: right"> - <a href = 'https://link.springer.com/chapter/10.1007/3-540-12675-9_11'>Michael Fisher</a></div>
+<br>
+<br>
+
+---
+<div style="text-align: center">“The value  of  theory  is  often  claimed  to  lie  in  making  predictions  or  in fitting models to data, both of which are no doubt commendable, but, [in biology], theory has played a far more valuable role by showing us how to think about entities that lie beyond our grasp.”</div>
+<br>
+<div style="text-align: right"> - <a href='https://www.molbiolcell.org/doi/10.1091/mbc.e12-03-0227'>Jeremy Gunawardena</a></div>
 <br>
 <br>
 
@@ -195,6 +209,7 @@ by Øksendal</a>. The author says the quote was 'Posted outside the mathematics 
 <div style="text-align: right"> - <a href='https://www.molbiolcell.org/doi/10.1091/mbc.e12-03-0227'>Jeremy Gunawardena</a></div>
 <br>
 <br>
+
 
 
 ## On Laws, Generality, and Knowledge
