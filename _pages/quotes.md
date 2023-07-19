@@ -408,6 +408,13 @@ fuzzy, being held together by an open-ended set of correlated properties”</div
 <br>
 <br>
 
+---
+<div style="text-align: center">“Physics wants to simplify and unify things, as much as possible. Biology resists the reductionist approach and is happy about diversification and complexity.”</div>
+<br>
+<div style="text-align: right"> – <a href = 'https://iopscience.iop.org/article/10.1088/0953-8984/22/41/410401'>Alexei Kornyshev</a></div>
+<br>
+<br>
+
 
 ## Miscellaneous
 <br>
