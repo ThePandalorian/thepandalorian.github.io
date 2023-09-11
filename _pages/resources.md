@@ -89,7 +89,8 @@ Mathematical biology today is a vibrant field, and, despite what school may try 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html)
 - [A collection of graphs made in R](https://www.r-graph-gallery.com/)
 - [A collection of graphs made in Python](https://python-graph-gallery.com/)
-    
+- [A color scheme generator](https://paletton.com/) for making better plots: Generates complimentary colors, lets you vary hue, provides simulations of various types of colorblindness as well as common lightness/hue/saturation changes that can be caused by faulty screens.
+	
 ---
 ## Coding
 
