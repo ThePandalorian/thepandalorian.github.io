@@ -41,6 +41,7 @@ I'm a huge fan of 'popular science' books. These books, when written well, provi
 - <i>Fermat's last theorem</i> by Simon Singh - Speaks about various mathematicians who worked on Fermat's last theorem and/or developed tools that contributed to Andrew Wiles' proof of the theorem.
 - <i>It must be beautiful</i> by various authors, edited by Graham Fermelo. Collection of essays about the use of mathematics in the science from a list of authors that includes Roger Penrose, John Maynard Smith, and Robert May.
 - <i>Escape from Model Land</i> by Erica Thompson - Mathematical modelling and its relation to real-world processes, mostly from an applied perspective (think finance, climate change, etc.).
+- <i>Biggest ideas in the universe (Vol 1)</i> by Sean Carroll - Brief introduction to modern classical mechanics, special relativity, and general relativity. As a person who's comfortable with equations but doesn't know physics, I found it very refreshing to read a pop sci book that does not shy away from equations but also does not assume you are familiar with physics language.
 
 ### Biographies and Autobiographies of scientists
 I often like reading about scientists just as much as I like reading about science. Here is a list of biographies and autobiographies that I particularly enjoyed.
