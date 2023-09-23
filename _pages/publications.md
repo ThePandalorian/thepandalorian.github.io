@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 nav_order: 3
 description:
-years: [2022]
+years: [2022,2023]
 nav: true
 ---
 
