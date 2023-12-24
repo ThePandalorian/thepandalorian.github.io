@@ -1,15 +1,16 @@
 ---
-layout: 
-title: 
-nav: false
-dropdown: false
+layout: page
+title: Writing
+nav: 6
+dropdown: true
 children: 
-    - title: Publications
-      permalink: /publications/
+    - title: Blog
+      permalink: https://takshsangwan24.substack.com?utm_source=navbar&utm_medium=web&r=2y307n
     - title: divider
-    - title: Projects
-      permalink: /projects/
+    - title: Microblog
+      permalink: /microblog/
     - title: divider
-    - title: Resources
-      permalink: /resources/
+    - title: Miscellaneous
+      permalink: /miscellaneous/
 ---
+
