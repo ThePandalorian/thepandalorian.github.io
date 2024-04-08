@@ -4,7 +4,7 @@ title: Alternative Reproductive Tactics in Tree Crickets
 description: Investigating the mating success of different signalling strategies using data-driven simulations
 img: assets/img/cricket_IbM.gif
 importance: 2
-category: Current
+category: Previous
 permalink: /projects/oecanthus_ARTs
 ---
 

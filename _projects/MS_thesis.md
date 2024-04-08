@@ -4,7 +4,7 @@ title: Evolution in Finite Populations
 description: Modelling stochastic evolutionary dynamics from first principles (MS thesis project)
 img: assets/img/stochastic_sims.gif
 importance: 1
-category: Current
+category: Previous
 permalink: /projects/MS_thesis
 ---
 
