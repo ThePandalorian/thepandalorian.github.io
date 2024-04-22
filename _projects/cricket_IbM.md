@@ -8,8 +8,8 @@ category: Previous
 permalink: /projects/oecanthus_ARTs
 ---
 
-<i> Jan 2021 - Present <br>
-Supervisors: Prof. Rohini Balakrishnan, Dr. Vishwesha Guttal</i>
+<i> Jan 2021 - Dec 2023 <br>
+Supervisors: Prof. Rohini Balakrishnan, Prof. Vishwesha Guttal</i>
 
 <div style="text-align: justify">
 

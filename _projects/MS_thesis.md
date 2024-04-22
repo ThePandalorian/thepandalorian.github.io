@@ -8,8 +8,8 @@ category: Previous
 permalink: /projects/MS_thesis
 ---
 
-<i> June 2022 - Present <br>
-Supervisors: Dr. Vishwesha Guttal, Prof. Rohini Balakrishnan</i>
+<i> June 2022 - May 2023<br>
+Supervisors: Prof. Vishwesha Guttal, Prof. Rohini Balakrishnan</i>
 
 
 <h1> Part 1: Noise-induced selection and its effects in finite populations of non-constant size </h1>
