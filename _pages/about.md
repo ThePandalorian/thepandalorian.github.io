@@ -34,5 +34,7 @@ In May 2023, I completed my BS-MS degree from the Indian Institute of Science Ed
 <br>
 In my free time, I enjoy reading, listening to country music, sipping a hot cup of strong coffee, and sometimes watching or playing Dungeons & Dragons. I'm particularly fond of popular science books, and you can find a list of books I liked over on the <a href='resources'>Resources</a> page. I've also collected other resources related to academia, such as resources for learning about various things like math, biology, presentation skills, coding, writing, etc., on the <a href='resources/'>Resources</a> page in the interest of making it easier for other people to find the things that have helped me at various times. I also enjoy collecting quotes (usually about modelling or ecology/evolution) that I think are profound, pretty, or funny, and you can find some quotes I particularly liked over on the <a href='Quotes/'>Quotes</a> page. I am also an avid naturalist and wildlife lover, and love going on treks and hikes. When I find the time, I like dabbling in wildlife photography (mostly macro stuff), and you can find images I've taken over on my <a href = "https://www.instagram.com/shikhara_bhat/?hl=en">instagram</a> account.
 <br>
+<br>
+<br>
 My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdös number</a> is <a href='https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=706775&target=189017'>5</a>.
 </div>
