@@ -34,6 +34,6 @@ Visualization of a simulation consisting of <i>Oecanthus henryi</i> females movi
 </div>
 <br>
 
-Our results show that the co-existence of these tactics over ecological time scales is facilitated by the spatial structure of the landscape they inhabit, which serves to equalize the otherwise unequal mating benefits of the three tactics. We also show that this co-existence is unlikely if spatial aspects of the system are not considered. This work is now published in <i>Biology Open</i> (<a href=https://doi.org/10.1242/bio.060307'>Sadiq, Bhat et al. 2024</a>).
+Our results show that the co-existence of these tactics over ecological time scales is facilitated by the spatial structure of the landscape they inhabit, which serves to equalize the otherwise unequal mating benefits of the three tactics. We also show that this co-existence is unlikely if spatial aspects of the system are not considered. This work is now published in <i>Biology Open</i> (<a href=https://doi.org/10.1242/bio.060307'>Sadiq, Bhat et al. 2024</a>). You can also read a Twitter thread about the work <a href='https://x.com/ShikharaBhat/status/1774150854595035472'>here</a>. <i>Nature India</i> has covered our article, and you can find their coverage <a href='https://www.nature.com/articles/d44151-024-00088-6'>here</a>.
 
 </div>
