@@ -2,7 +2,7 @@
 layout: page
 title: The Evolution of Ageing
 description: Formal models of the developmental theory of ageing
-img: assets/img/aging_as_tipping.png
+img: assets/img/aging_networks.png
 importance: 1
 category: Current
 permalink: /projects/aging_and_hyperfunction
@@ -24,6 +24,19 @@ Ageing, or senescence, is the phenomenon of mortality rates of organisms increas
 </div>
 <div class="caption">
 A schematic depiction of the evolution of aging as a result of hypofunction/hyperfuuction arising from failure to track a changing optimum.
+</div>
+<br>
+
+Any sufficiently complex organism could conceivably be conceptualized as a system of interacting sub-systems. These sub-systems could be genes, organs, tissues, or something more abstract, such as cellular pathways, metabolic functions, or foraging ability. Crucially, in any such conceptualization, the functioning of each sub-part depends on the well-being of other sub-parts. For instance, a faulty heart places additional stresses on lung functioning. Organismal functioning and mortality then depend on the fraction of currently operational sub-parts. For my PhD, I am using mathematical models rooted in graph theory and network percolation to study whether such interdependencies are sufficient to reproduce patterns of demographic senescence without invoking a selection shadow. I am also trying to establish connections with more standard control theoretic ideas based on the developmental theory of ageing and outline how trade-offs between maintenance of different sub-systems could potentially lead to interesting eco-evolutionary insights.
+
+<br>
+<div class="row" style="text-align: center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/aging_networks.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+If aging is conceptualized as cascading failures in complex interdependnt systems, aging rate crucially depends on network structure of interdependencies --- some networks, such as cyclic graphs, show negligible senescence, whereas others, such as complete graphs or graphs with power law degree distributions, exhibit Gompertzian patterns of system failure.
 </div>
 <br>
 
