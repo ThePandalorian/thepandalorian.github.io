@@ -82,9 +82,10 @@ Mathematical biology today is a vibrant field, and, despite what school may try 
 - [Etheridge 2011 - Some Mathematical Models from Population Genetics](https://link.springer.com/book/10.1007/978-3-642-16632-7). A book on theoretical population genetics aimed at mathematicians who are familiar with analysis but unfamiliar with biological language and concepts.
 - ['Physics of Life' by the American National Physics Association](https://nap.nationalacademies.org/catalog/26403/physics-of-life). I very strongly disagree with the classification of most of the things covered in this piece as 'physics' or of any of the subject matter covered as 'a field of physics', but I include this survey here nevertheless for any stray physicists that may run into my page. This article surveys how tools first created in areas of physics such as statistical mechanics have been co-opted to study biological systems across various scales of biology. While the article is written by physicists and views these biological models as 'areas of physics', I urge you to notice that using a partition function (originally developed in the context of stat mech) to study ensembles of species in an ecological community is physics to the same degree that using calculus (originally developed in the context of Newtonian mechanics) to model Lotka-Volterra communities is physics :)
 
-
-
 ---
+
+# Resources for academia: technical skills
+
 ## Data visualization
 
 - [ggplot2 cheatsheet](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
@@ -118,6 +119,69 @@ Mathematical biology today is a vibrant field, and, despite what school may try 
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY) by Patrick Winston at MIT
 - [List of commonly used phrases in academic writing](https://www.phrasebank.manchester.ac.uk/)
 - [Ten simple rules for making good oral presentations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030077)
+
+---
+
+# Resources for academia: Applications and advice
+
+## Other lists like this one
+
+- [Shaily Bhatt’s repository of advice](https://github.com/shaily99/advice) on things like grad school applications and research. Mostly focuses on CS, ML/AI, NLP, and related fields.  
+- [Arkha Sadhu’s research advice list](https://github.com/TheShadow29/research-advice-list), again mostly about CS and related fields  
+- [Matt Might’s list](https://matt.might.net/articles/)  
+- [Científico Latino](https://www.cientificolatino.com/), a very comprehensive website/program intended to help undergrads and grads navigate academia, especially as international and/or minority students in the US.  
+- [Arjun Raj lab](https://docs.google.com/document/d/1jBGk-u5auVCvI5EMaQnptMWbxHHl3ncIhKgIgEzjylw/edit?usp=drivesdk)'s list of tools for science. Covers giving talks, reviewing papers, finding a thesis committee, etc.  
+- [Vishwesha Guttal’s list](https://teelabiisc.wordpress.com/professional-skills/) of professional skills  
+- [The illustrated guide to a PhD by Matt Might](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
+
+# PhD Stuff
+
+## Applying to PhD programs in the USA
+
+- [Field Guide to applying to graduate school](https://docs.google.com/document/d/1fNfQVwDCTUFejDsimIq8Mn2srWEA97tqVTsDkQQ1UpE/edit) (includes a useful timeline)  
+- [Científico Latino’s “Quick Start” guide to applying to graduate school](https://www.cientificolatino.com/grad-school-guide)  
+- [Casey Dunn’s guide to applying to biology PhD programs in the US](https://medium.com/@caseywdunn/applying-to-biology-phd-programs-58abece3284a)  
+- [George Iskander’s guide](https://github.com/gwisk/gradguide) to applying to grad school  
+- [A guide to graduate school for students from low-income backgrounds](http://howtogradschoolwhilepoor.blogspot.com/)  
+- [Resources for undocumented graduate students](https://mydocumentedlife.org/graduate-school-students/)  
+- [Científico Latino’s guide to applying to United States graduate programs as an international student](https://www.cientificolatino.com/international)  
+- [More advice on applying to United States graduate programs as an international student](https://ssecommunityblog.org/applying-to-a-phd-program-in-the-us-as-an-international-student/)  
+- [Unwritten rules of EEB grad apps](http://oconnorlab.weebly.com/blog/-unwritten-rules-of-getting-in-and-getting-on-in-grad-school-in-ecology) by Mary O’Conner	  
+- [Detailed advice on applying to EEB graduate programs](https://medium.com/@caseywdunn/applying-to-biology-phd-programs-58abece3284a)  
+- [Thoughts on finding the right grad program for you](https://dynamicecology.wordpress.com/2013/02/05/thoughts-on-applying-to-grad-school-for-prospective-students-and-their-mentors/) by Meghan Dufffy  
+- [Thoughts on finding the right grad program for you](https://sociobiology.wordpress.com/2012/02/12/choosing-a-ph-d-program-whats-important-and-whats-not/) by Joan Strassman  
+- [Youtube discussion video](https://www.youtube.com/watch?v=q5pHNr4N7fQ) on finding the right grad program for you  
+- [EEB grad school interview tips](https://sociobiology.wordpress.com/2012/02/27/impressing-us-on-your-graduate-school-interview/) from Joan Strassman
+
+## Living the grad student life (much of this is in the USA context)
+
+- [Some modest advice for graduate students](http://faculty.washington.edu/hueyrb/pdfs/advice.pdf) by Stephen C Stearns  
+- [Some acynical advice for graduate students](https://faculty.washington.edu/hueyrb/pdfs/reply.pdf) by Raymond B Huey  
+- Thoughts on succeeding in graduate school in EEB [part 1](http://ecoevoevoeco.blogspot.com/2015/03/how-to-succeed-in-graduate-school.html) and [part 2](http://ecoevoevoeco.blogspot.com/2015/03/how-to-succeed-in-graduate-school-part-2.html) (aimed mostly at students interested in a career in academia)  
+- [Compilation of advice on various aspects of being a graduate student](https://halllab2.sitehost.iu.edu/grad-student-resources.html)  
+- [On being a successful graduate student in the sciences](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/4/216/files/2019/08/On-being-a-successful-graduate-student-v-9.0.pdf) by John Thompson
+
+## PhD preview programs that will help you apply to PhD programs in the US
+ 
+
+- Princeton [P3](https://graddiversity.princeton.edu/prospective-phd-preview-p3). If you are in EEB, there is also the [Princeton EEB scholars](https://eeb.princeton.edu/graduate/eeb-scholars-program) program.  
+- [University of Michigan](https://lsa.umich.edu/lsa/prospective-students/graduate/preview-weekend.html)  
+- Cornell’s “[Consider Cornell](https://gradschool.cornell.edu/diversity-inclusion/recruitment/consider-cornell/)” series  
+- Stanford biology [PhD preview](https://biology.stanford.edu/academics/phd-program/stanford-biology-phd-preview-program) program
+
+## Drafting emails
+
+### Writing emails to potential advisors
+
+- [Sarah Evans’ tips](https://docs.google.com/document/d/1QySXQInhl25Bj6CHYfElXMTFZSjTzpxvMF073QN4fWQ/edit)  
+- [Vishwesha Guttal’s tips and instructions](https://teelabiisc.wordpress.com/2013/03/30/how-to-write-an-emailapplication-for-a-short-term-or-summer-research-internshipproject/)
+
+### Requesting a recommendation letter
+
+- [Vishwesha Guttal’s tips](https://teelabiisc.wordpress.com/2018/08/13/advise-on-requesting-recommendation-letters/)
+
+
+
 
 ---
 ## Miscellaneous
