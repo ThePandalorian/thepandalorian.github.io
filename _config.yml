@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: Shikhara Bhat # the website title (if blank, full name will be used instead)
-first_name: A.
-middle_name: Shikhara
+first_name: Shikhara
+middle_name:
 last_name: Bhat
 email: shikharabhat@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -340,8 +340,7 @@ bootstrap:
     css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
     js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
 fontawesome:
-  version: "5.15.4"
-  integrity: "sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4="
+  version: "6.5.2"
 jquery:
   version: "3.6.0"
   integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
