@@ -183,9 +183,7 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
-          {%- if entry.altmetric %}
-            <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-altmetric-id="{{ entry.altmetric }}" class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-popover="right" data-badge-type="2" style="display:inline"></div>
-          {%- endif %}
+          <!-- Add a button that links to google scholar and also computes and displays number of citations according to google scholar -->
           {% if site.enable_publication_badges %}
             {% assign entry_has_google_scholar_badge = entry.google_scholar_id %}
             {% if site.enable_publication_badges.google_scholar and entry_has_google_scholar_badge %}
@@ -202,25 +200,6 @@
             {% endif %}
           {% endif %}
           </div>
-          
-          <!-- Add a google scholar button -->
-          {% if site.enable_publication_badges %}
-            {% assign entry_has_google_scholar_badge = entry.google_scholar_id %}
-            <div class="badges">
-            {% if site.enable_publication_badges.google_scholar and entry_has_google_scholar_badge %}
-            <a
-              href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ site.scholar_userid }}&citation_for_view={{ site.scholar_userid }}:{{ entry.google_scholar_id }}"
-              aria-label="Google Scholar link"
-              role="button"
-            >
-              <img
-                src="https://img.shields.io/badge/scholar-{% google_scholar_citations site.scholar_userid entry.google_scholar_id %}-4285F4?logo=googlescholar&labelColor=beige"
-                alt="{% google_scholar_citations site.scholar_userid entry.google_scholar_id %} Google Scholar citations"
-              >
-            </a>
-            {% endif %}
-            </div>
-          {% endif %}
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
