@@ -9,7 +9,7 @@ permalink: /projects/aging_and_hyperfunction
 ---
 
 <i> Feb 2024 - Present <br>
-Supervisors: Prof. Alexei Maklakov, Prof. Hanna Kokko</i>
+Supervisors: Prof. Hanna Kokko</i>
 
 <div style="text-align: justify">
 
