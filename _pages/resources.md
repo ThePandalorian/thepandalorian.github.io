@@ -144,8 +144,7 @@ Mathematical biology today is a vibrant field, and, despite what school may try 
 - [George Iskander’s guide](https://github.com/gwisk/gradguide) to applying to grad school  
 - [A guide to graduate school for students from low-income backgrounds](http://howtogradschoolwhilepoor.blogspot.com/)  
 - [Resources for undocumented graduate students](https://mydocumentedlife.org/graduate-school-students/)  
-- [Científico Latino’s guide to applying to United States graduate programs as an international student](https://www.cientificolatino.com/international)  
-- [More advice on applying to United States graduate programs as an international student](https://ssecommunityblog.org/applying-to-a-phd-program-in-the-us-as-an-international-student/)  
+- [Científico Latino’s guide to applying to United States graduate programs as an international student](https://www.cientificolatino.com/international)
 - [Unwritten rules of EEB grad apps](http://oconnorlab.weebly.com/blog/-unwritten-rules-of-getting-in-and-getting-on-in-grad-school-in-ecology) by Mary O’Conner	  
 - [Detailed advice on applying to EEB graduate programs](https://medium.com/@caseywdunn/applying-to-biology-phd-programs-58abece3284a)  
 - [Thoughts on finding the right grad program for you](https://dynamicecology.wordpress.com/2013/02/05/thoughts-on-applying-to-grad-school-for-prospective-students-and-their-mentors/) by Meghan Dufffy  
@@ -155,10 +154,10 @@ Mathematical biology today is a vibrant field, and, despite what school may try 
 
 ## Living the grad student life (much of this is in the USA context)
 
-- [Some modest advice for graduate students](http://faculty.washington.edu/hueyrb/pdfs/advice.pdf) by Stephen C Stearns  
-- [Some acynical advice for graduate students](https://faculty.washington.edu/hueyrb/pdfs/reply.pdf) by Raymond B Huey  
+- [Some modest advice for graduate students](https://stearnslab.yale.edu/modest-advice) by Stephen C Stearns  
+- [Some acynical advice for graduate students](https://agrilife.org/fitzgerald/files/2012/07/Huey_reply3.pdf) by Raymond B Huey  
 - Thoughts on succeeding in graduate school in EEB [part 1](http://ecoevoevoeco.blogspot.com/2015/03/how-to-succeed-in-graduate-school.html) and [part 2](http://ecoevoevoeco.blogspot.com/2015/03/how-to-succeed-in-graduate-school-part-2.html) (aimed mostly at students interested in a career in academia)  
-- [Compilation of advice on various aspects of being a graduate student](https://halllab2.sitehost.iu.edu/grad-student-resources.html)  
+- [Compilation of advice on various aspects of being a graduate student](https://socialbat.org/2017/07/05/some-advice-for-grad-students/)  
 - [On being a successful graduate student in the sciences](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/4/216/files/2019/08/On-being-a-successful-graduate-student-v-9.0.pdf) by John Thompson
 
 ## PhD preview programs that will help you apply to PhD programs in the US
