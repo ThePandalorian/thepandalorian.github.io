@@ -27,7 +27,7 @@ A schematic depiction of the evolution of ageing as a result of hypofunction/hyp
 </div>
 <br>
 
-At the proximate level, senescence can be more mechanistically understood via the accumulation of failures of various physiological processes required for organismal function. In this view, an organism is a complex system consisting of many interdependent sub-systems, each with some intrinsic risk of failure due to the vagaries of life. These sub-systems could be genes, organs, tissues, or something more abstract, such as cellular pathways, metabolic functions, or foraging ability. Crucially, in any such conceptualization, the functioning of each sub-part depends on the well-being of other sub-parts. For instance, a faulty heart places additional stresses on lung functioning. Organismal functioning and mortality then depend on the fraction of currently operational sub-parts. For my PhD, I am using mathematical models rooted in graph theory and network percolation to study whether such interdependencies are sufficient to reproduce patterns of demographic senescence without invoking a selection shadow. I am also trying to establish connections with more standard control theoretic ideas based on the developmental theory of ageing and outline how trade-offs between maintenance of different sub-systems could potentially lead to interesting eco-evolutionary insights.
+At the proximate level, senescence can be more mechanistically understood via the accumulation of failures of various physiological processes required for organismal function. In this view, an organism is a complex system consisting of many interdependent sub-systems, each with some intrinsic risk of failure due to the vagaries of life. These sub-systems could be genes, organs, tissues, or something more abstract, such as cellular pathways, metabolic functions, or foraging ability. Crucially, in any such conceptualization, the functioning of each sub-part depends on the well-being of other sub-parts. For instance, a faulty heart places additional stresses on lung functioning. Organismal functioning and mortality then depend on the fraction of currently operational sub-parts. For my PhD, I am using mathematical models to study whether such interdependencies are sufficient to reproduce patterns of demographic senescence without invoking a selection shadow.
 
 <br>
 <div class="row" style="text-align: center">
@@ -39,5 +39,6 @@ At the proximate level, senescence can be more mechanistically understood via th
 If ageing is conceptualized as cascading failures in complex interdependent systems, aging rate crucially depends on network structure of interdependencies --- some networks, such as cyclic graphs, show negligible senescence, whereas others, such as complete graphs or graphs with power law degree distributions, exhibit Gompertzian patterns of system failure.
 </div>
 <br>
-
 </div>
+
+I am currently trying to model such stochastic accumulation of failures as a two-level branching process (one within the individual due to failure and repair of systems, one at the population level due to births and deaths of individuals). Note that the associated Fokker-Planck equation will be non-conservative since individuals can be lost to death. On the stochastics side, the relevant stochastic process modelling such systems is diffusion with killing.
