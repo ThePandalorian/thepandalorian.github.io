@@ -34,7 +34,7 @@ where $$f^{(i)}_t = F^{(i)}_t/N$$ is a rescaled version of the individual-level 
 <br>
 <div class="row" style="text-align: center">
     <div class="col-sm mt-3 mt-md-0">
-        {% figure path="assets/img/MLS_ageing.png" title="" class="img-fluid rounded z-depth-1" %}
+				<img src="{{ 'assets/img/MLS_ageing.png' | relative_url }}" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">

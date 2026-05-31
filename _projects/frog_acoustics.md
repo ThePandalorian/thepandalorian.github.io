@@ -19,16 +19,12 @@ Do frogs use different types of vocal sequences in different contexts? If so, ho
 <br>
 <div class="row" style="text-align: center">
     <div class="col-sm mt-3 mt-md-0">
-        {% figure path="assets/img/pseudophilautus.png" title="" class="img-fluid rounded z-depth-1" %}
+		<img src="{{ 'assets/img/pseudophilautus.png' | relative_url }}" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
 Male <i>P. amboli</i> use different note types based on whether they are vocalizing alone (top) or engaged in territorial disputes (bottom). Co-occurrence analysis of note types (right) is a new tool that can be used to look for sequence structure without assumptions of Markovianity. Here, the high reds on the diagonal in the bottom right figure indicate that males typically use highly repetitive note sequences in territorial disputes.
 </div>
 <br>
-As part of this project, I developed a novel computational technique for analyzing vocal sequence that has since found more general applications in describing and studying the syntactic structure of animal vocalizations (<a href = 'https://link.springer.com/article/10.1007/s00265-023-03385-9'>Madabhushi <i>et al.</i> 2023</a>). This technique, which we call 'co-occurrence analysis', is a more robust alternative to the common technique of obtaining transition probability matrices to describe vocal sequence structure by assuming the underlying processes are low-order Markovian, an assumption that we know is often not justified. If these ideas interest you, you can read more about it in <a href='https://doi.org/10.1016/j.anbehav.2021.12.004'>Bhat <i>et al.</i> 2022</a> in <i>Animal Behaviour</i> (Feel free to email me if you do not have access to the full text). You can also listen to me give a quick ten minute talk on the work here:
-
-{% youtube id="QCsX88lTaos" %}
-
-The presentation was selected as a finalist for SICB's Marlene Zuk best student presentation award in 2022.
+As part of this project, I developed a novel computational technique for analyzing vocal sequence that has since found more general applications in describing and studying the syntactic structure of animal vocalizations (<a href = 'https://link.springer.com/article/10.1007/s00265-023-03385-9'>Madabhushi <i>et al.</i> 2023</a>). This technique, which we call 'co-occurrence analysis', is a more robust alternative to the common technique of obtaining transition probability matrices to describe vocal sequence structure by assuming the underlying processes are low-order Markovian, an assumption that we know is often not justified. If these ideas interest you, you can read more about it in <a href='https://doi.org/10.1016/j.anbehav.2021.12.004'>Bhat <i>et al.</i> 2022</a> in <i>Animal Behaviour</i> (Feel free to email me if you do not have access to the full text).
 </div>

@@ -26,7 +26,7 @@ In collaboration with <a href='https://sites.google.com/view/mohammedaamirsadiq/
 <br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% figure path="assets/img/cricket_IbM.gif" title="" class="img-fluid rounded z-depth-1" %}
+		<img src="{{ 'assets/img/cricket_IbM.gif' | relative_url }}" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
@@ -38,7 +38,7 @@ Our results show that the co-existence of these tactics over ecological time sca
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% figure path="assets/img/bio_open_cover.png" title="" class="img-fluid rounded z-depth-1" %}
+		<img src="{{ 'assets/img/bio_open_cover.png' | relative_url }}" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <br>
