@@ -21,7 +21,7 @@ Many central questions of population biology relate to the number of distinct va
 <br>
 <div class="row" style="text-align: center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/evolutionary_branching.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% figure path="assets/img/evolutionary_branching.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -33,7 +33,7 @@ While we understand natural selection very generally through frameworks such as 
 <br>
 <div class="row" style="text-align: center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/schematic_BD_process.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% figure path="assets/img/schematic_BD_process.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,7 +42,7 @@ While we understand natural selection very generally through frameworks such as 
 <br>
 The formalism of birth-death processes and their description via master equations are well known to physicists and mathematicians. This thesis focused on the biological implications of the master equation/system-size expansion formalism for biological populations, which is relatively newer. In particular, two important biological observations, (i) that birth and death rates in biological populations must always admit per-capita descriptions, and (ii) Ecological interactions are in terms of individuals and densities but evolutionary processes are described in terms of frequencies, calling for a non-linear change of variables that requires It\^o's formula, both have major implications for the behavior of these systems. Remarkably, we find that we can (asymptotically) recover standard equations of theoretical biology such as the replicator equation and the Price equation with just these observations. Our equations also clarify and unite several previous studies that have illustrated the presence of noise-induced selection in various specific model systems postulated in diverse areas of biology such as epidemiology, heterogamety, life-history evolution, and social evolution by capturing their results in a single set of very general stochastic differential equations. Our equations also take the form of generalizations of the replicator-mutator and Price equations, which are familiar to biologists, thus more clearly illustrating the effects of noise-induced selection without resorting to tools such as slow manifold analysis that are ubiquitous in physics circles. Lastly, our equations make concrete biological predictions such as systematic deviations from true neutrality despite equal fitness that can, in principle, be directly measured empirically. Our work formulating these results has been published as a <i>Synthesis</i> article in <i>The American Naturalist</i> (<a href='https://doi.org/10.1086/733196'>Bhat and Guttal, 2025</a>). A preprint is also available on <a href='https://www.biorxiv.org/content/10.1101/2024.02.19.580940v1'>bioRxiv</a>. You can also read a Twitter thread about the paper <a href='https://x.com/ShikharaBhat/status/1760427751092166839'>here</a>. I was invited to give a 40 minute talk about this work at a monthly seminar organized by the Drosophila Ecology and Evolution supergroup in India, and you can listen to that talk here:
 
-{% include youtube.html id="vVVWCT62c0c" %}
+{% youtube id="vVVWCT62c0c" %}
 
 <br>
 <br>
@@ -58,7 +58,7 @@ Phenotypic traits such as human height are often under the influence of a very l
 <br>
 <div class="row justify-content-sm-center"  style="text-align: center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/discrete_vs_quant_trait_comparison.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% figure path="assets/img/discrete_vs_quant_trait_comparison.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -70,7 +70,7 @@ The mathematicians use something called measure-valued branching processes (MVBP
 
 The formulation of stochastic field equations for populations bearing quantitative traits using tools from statistical physics is, to the best of our knowledge, also original mathematically and may be of independent interest to applied mathematicians and physicists. The work covering quantitative traits has been published in <i>Theoretical Population Biology</i> (<a href='https://www.sciencedirect.com/science/article/pii/S0040580924000959?via%3Dihub'>Bhat, 2025</a>). You can also read a Twitter thread about the paper <a href='https://x.com/ShikharaBhat/status/1802973714297851964'>here</a>. I have spoken about the mathematical ideas and steps involved in a lab meet, and a recording of this talk can be viewed here (this talk assumes that you understand the mathematical ideas used in the discrete trait case, <i>i.e.</i> the mathematics of 'part 1' above):
 
-{% include youtube.html id="Pt_YeEN_b64" %}
+{% youtube id="Pt_YeEN_b64" %}
 
 <br>
 <br>
