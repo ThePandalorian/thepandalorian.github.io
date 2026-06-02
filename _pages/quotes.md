@@ -31,7 +31,7 @@ As you could perhaps guess from the epigraph on my homepage, I like quoting pret
 <br>
 
 ---
-<div style="text-align: center">“OIf you have spent some time on the problem and get stuck, then you put it aside and say, OK, I'll move on to something else. The problem [continues to be worked on by your subconscious] based on aesthetic principles. And it finds something! It may be right and it may be wrong, but because of this amazing connection between truth and beauty, it's often right.”</div>
+<div style="text-align: center">“If you have spent some time on the problem and get stuck, then you put it aside and say, OK, I'll move on to something else. The problem [continues to be worked on by your subconscious] based on aesthetic principles. And it finds something! It may be right and it may be wrong, but because of this amazing connection between truth and beauty, it's often right.”</div>
 <br>
 <div style="text-align: right"> – <a href = 'https://youtu.be/8Es52UU7Sb0'>Peter Taylor</a></div>
 <br>
