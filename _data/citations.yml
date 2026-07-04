@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-13'
+  last_updated: '2026-07-04'
 papers:
   mDsaUE4AAAAJ:LkGwnXOMwfcC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Eco-evolutionary dynamics of finite populations from first principles
     year: '2023'
   mDsaUE4AAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: Stochastic failure accumulation as a foundation for exponential mortality and selective disappearance
     year: '2026'
   mDsaUE4AAAAJ:WF5omc3nYNoC:
@@ -22,18 +22,22 @@ papers:
     title: Spatial structure could explain the maintenance of alternative reproductive tactics in tree cricket males
     year: '2024'
   mDsaUE4AAAAJ:Y0pCki6q_DkC:
-    citations: 5
+    citations: 4
     title: Allopatric montane wren-babblers exhibit similar song notes but divergent vocal sequences
     year: '2023'
   mDsaUE4AAAAJ:eQOLeE2rZwMC:
     citations: 10
     title: Eco-evolutionary dynamics for finite populations and the noise-induced reversal of selection
     year: '2025'
+  mDsaUE4AAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Demographic senescence as multi-level selection in miniature
+    year: '2026'
   mDsaUE4AAAAJ:u-x6o8ySG0sC:
     citations: 26
     title: Behavioural context shapes vocal sequences in two anuran species with different repertoire sizes
     year: '2022'
   mDsaUE4AAAAJ:ufrVoPGSRksC:
-    citations: 9
+    citations: 10
     title: A stochastic field theory for the evolution of quantitative traits in finite populations
     year: '2025'
